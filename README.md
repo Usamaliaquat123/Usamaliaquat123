@@ -1,18 +1,4 @@
-## Attension please 🚀
 
-
-**What was the problem**
-I saw many peoples working on the technology but they don't know what's happening on the back side | we are just using JS apis to write those apps there's a lot of things on the back bundling, compiling, serving those apis, there's a lot of stuff working on the back... In the end we need **stackoverflow** to read more about apis 👍. I want you guys to work with me for the @facebook opensource, In the end we will be the offical @facebook /repo maintainers InshAllah 🥇 
-
-**What i want to do**
-I want to spend my time on the opensouce | help the @babel community | help the @react-native-community | write some plugins of @tensorflow JS lib to enable more react-native apis, I want you guys to help me, i'll provide you the platform you like i would like to schedule a meetings arrange a skype calls to learn more about the code that @facebook team write, i want you guys on the top of the list ... 🥇 
-
-Join facebook skype : https://join.skype.com/ihveSGWceHrP 
-
-**Who am i**
-Hi, I'm Usama , currently a App developer at codistan, I'm from karachi then back to islamabad for the work, my office timming is between 10am - 6pm after that i have a remote client that i've work with, i just only have to spend 3 hrs / day on this..
-
-If you want to directly contact with me
 
 [![Contact](https://img.shields.io/badge/Whatsapp-message-green)](whatsapp://send?abid=+923162132225&text=HeyThere)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Usamaliaquat123/)
