@@ -19,7 +19,7 @@
 - 👯 I’m looking to collaborate on [callstack](https://github.com/callstack) 🤝;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in Software engineering;
-- 📫 How to reach me: inconnent12345@outlook.com;
+- 📫 How to reach me: usamaliaquat5583@gmail.com;
 
 
 
